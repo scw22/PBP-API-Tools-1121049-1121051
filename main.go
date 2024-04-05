@@ -6,7 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"PBP-API-Tools-1121049-1121051\controllers"
+	"PBP-API-Tools-1121049-1121051/controllers"
+
 	"github.com/go-co-op/gocron"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/gorilla/mux"
